@@ -1,0 +1,82 @@
+DIFERENCIAS ENTRE JAVA Y C#
+
+Tipos de Datos Numéricos:
+Enteros:
+
+Java (int) - C# (int)
+Java (byte) - C# (byte)
+Java (short) - C# (short)
+Java (long) - C# (long)
+Flotantes:
+
+Java (float) - C# (float)
+Java (double) - C# (double)
+Decimales de Alta Precisión:
+
+Java (BigDecimal) - C# (decimal)
+Tipos de Datos de Carácter:
+Caracteres:
+
+Java (char) - C# (char)
+Cadenas de Texto:
+
+Java (String) - C# (string)
+Tipos de Datos Booleanos:
+Booleanos:
+Java (boolean) - C# (bool)
+Tipos de Datos Especiales:
+Fecha y Hora:
+
+Java (LocalDate, LocalTime, LocalDateTime, ZonedDateTime) - C# (DateTime, DateTimeOffset, TimeSpan)
+Arreglos:
+
+Java (int[], String[], etc.) - C# (int[], string[], etc.)
+Listas y Colecciones:
+
+Java (List<T>, ArrayList, LinkedList) - C# (List<T>, ArrayList, LinkedList<T>)
+Tipos de Datos de Gran Precisión o Tamaño:
+Números de Gran Tamaño:
+Java (BigInteger) - C# (BigInteger)
+Ejemplos de Declaración:
+Enteros:
+
+Java: int num = 10;
+C#: int num = 10;
+Flotantes:
+
+Java: float num = 10.5f;
+C#: float num = 10.5f;
+Decimales de Alta Precisión:
+
+Java: BigDecimal num = new BigDecimal("10.5");
+C#: decimal num = 10.5m;
+Caracteres:
+
+Java: char letter = 'A';
+C#: char letter = 'A';
+Cadenas de Texto:
+
+Java: String text = "Hello";
+C#: string text = "Hello";
+Booleanos:
+
+Java: boolean isTrue = true;
+C#: bool isTrue = true;
+Fecha y Hora:
+
+Java: LocalDate date = LocalDate.now();
+C#: DateTime date = DateTime.Now;
+Arreglos:
+
+Java: int[] numbers = {1, 2, 3};
+C#: int[] numbers = {1, 2, 3};
+Listas:
+
+Java: List<Integer> numbers = new ArrayList<>();
+C#: List<int> numbers = new List<int>();
+
+
+Herencia
+
+Java: class Clase extends ClaseHijo
+C#: class Clase: ClaseHijo

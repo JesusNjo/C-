@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\CursoAprender\CursoAprender\bin\Debug\net8.0\CursoAprender.exe
+C:\Users\Usuario\source\repos\CursoAprender\CursoAprender\bin\Debug\net8.0\CursoAprender.deps.json
+C:\Users\Usuario\source\repos\CursoAprender\CursoAprender\bin\Debug\net8.0\CursoAprender.runtimeconfig.json
+C:\Users\Usuario\source\repos\CursoAprender\CursoAprender\bin\Debug\net8.0\CursoAprender.dll
+C:\Users\Usuario\source\repos\CursoAprender\CursoAprender\bin\Debug\net8.0\CursoAprender.pdb
+C:\Users\Usuario\source\repos\CursoAprender\CursoAprender\obj\Debug\net8.0\CursoAprender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\CursoAprender\CursoAprender\obj\Debug\net8.0\CursoAprender.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\CursoAprender\CursoAprender\obj\Debug\net8.0\CursoAprender.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\CursoAprender\CursoAprender\obj\Debug\net8.0\CursoAprender.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\CursoAprender\CursoAprender\obj\Debug\net8.0\CursoAprender.dll
+C:\Users\Usuario\source\repos\CursoAprender\CursoAprender\obj\Debug\net8.0\refint\CursoAprender.dll
+C:\Users\Usuario\source\repos\CursoAprender\CursoAprender\obj\Debug\net8.0\CursoAprender.pdb
+C:\Users\Usuario\source\repos\CursoAprender\CursoAprender\obj\Debug\net8.0\CursoAprender.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\CursoAprender\CursoAprender\obj\Debug\net8.0\ref\CursoAprender.dll
