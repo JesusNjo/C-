@@ -12,3 +12,4 @@ C:\Users\Usuario\source\repos\CursoAprender\CursoAprender\obj\Debug\net8.0\refin
 C:\Users\Usuario\source\repos\CursoAprender\CursoAprender\obj\Debug\net8.0\CursoAprender.pdb
 C:\Users\Usuario\source\repos\CursoAprender\CursoAprender\obj\Debug\net8.0\CursoAprender.genruntimeconfig.cache
 C:\Users\Usuario\source\repos\CursoAprender\CursoAprender\obj\Debug\net8.0\ref\CursoAprender.dll
+C:\Users\Usuario\source\repos\CursoAprender\CursoAprender\obj\Debug\net8.0\CursoAprender.sourcelink.json

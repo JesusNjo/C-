@@ -70,10 +70,17 @@ Arreglos:
 
 Java: int[] numbers = {1, 2, 3};
 C#: int[] numbers = {1, 2, 3};
+matricez:
+
+Java: int[][] numbers = new int[][];
+C#: int[,] numbers = new int[2,3];
 Listas:
 
 Java: List<Integer> numbers = new ArrayList<>();
 C#: List<int> numbers = new List<int>();
+
+Java: Set<String> sets = new HashSet<String>();
+C#: HashSet<string> sets = new HashSet<string>(){};
 
 
 Herencia
